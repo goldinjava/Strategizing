@@ -1,6 +1,6 @@
 ### Strategizing  
 
-长安中心的文件长传系统，先配置publish.properties文件，配置版本目录，服务器地址，以及需要上传的产品简称  
+长安中心的文件上传系统，先配置publish.properties文件，配置版本目录，服务器地址，以及需要上传的产品简称  
 
 Strategizing系统会根据用户配置的版本目录，按照产品简称搜寻版本，并上传
 
